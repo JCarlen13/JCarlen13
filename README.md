@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JCarlen13
 - 👀 I’m interested in retail app development
 - 🌱 I’m currently learning development and team management skills
-- 💞️ I’m looking to collaborate on agriculture and public service projects
+- 💞️ I’m looking to collaborate on agriculture and technology projects
 - 📫 How to reach me joecarlsensutherland@icloud.com
 
 <!---
